@@ -5,8 +5,9 @@ public class GitHubTest {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello GitHub..");
-	    System.out.println("New Code 1");
-	    System.out.println("New code done by B");
+        System.out.println("New Code 1");
+		System.out.println("New Code 2 by A");
+        System.out.println("New code done by B");
 	
 	
 	
@@ -14,4 +15,8 @@ public class GitHubTest {
 	
 	
 	
-	}
+}
+	
+	
+
+
